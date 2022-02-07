@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731734621377",
+    "project_id": "cinematixauth-f4358",
+    "storage_bucket": "cinematixauth-f4358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731734621377:android:6a4a38ff0c6f2f5b3fa840",
+        "android_client_info": {
+          "package_name": "com.example.cinematix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731734621377-2i3jdk94ra1hveirfs211qu1plv4ovpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HO8AqhQCTnzpQLpQGZDWqrf-v9WQeuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731734621377-2i3jdk94ra1hveirfs211qu1plv4ovpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
